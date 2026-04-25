@@ -1,0 +1,6 @@
+{
+  "name": "Merch Mockup Studio",
+  "description": "High-fidelity merch mockup generator with interactive placement controls and print-ready exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Image Compositing", "Interactive Editing", "High-res Export"]
+}
